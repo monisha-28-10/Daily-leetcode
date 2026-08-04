@@ -19,7 +19,7 @@ Day-03/
 ```
 
 Each folder contains:
-- Problem solution (.java)
+- Problem solution (.java) and (.sql)
 - Clean and readable code
 
 ## 📈 Progress
